@@ -29,3 +29,9 @@
   border: none;
   padding: 10px;
 }
+.successful-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
